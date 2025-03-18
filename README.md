@@ -33,3 +33,5 @@
 
 
 ### Result:
+
+Thus,successfully executed to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer.
